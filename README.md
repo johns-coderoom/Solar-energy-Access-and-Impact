@@ -57,7 +57,8 @@ The dataset is compatible with **Excel, R, Stata, SPSS, and Python**.
 
 Solar adoption increased from **22% to 41%**, representing an **86% relative increase** following targeted awareness campaigns.
 
-![Solar Access](figures/Households_with_Solar_Access_percent.png)
+![Solar Access](  <img width="562" height="455" alt="17672116116941525857419558300087" src="https://github.com/user-attachments/assets/2c51c9e5-a2c9-4ecd-a5e9-2c76056fc11d" />
+ )
 
 ---
 
