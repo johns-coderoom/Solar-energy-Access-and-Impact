@@ -1,4 +1,3 @@
-# Solar-energy-Access-and-Impact
 
 # 🌞 Decentralized Solar Energy and Rural Livelihoods
 
